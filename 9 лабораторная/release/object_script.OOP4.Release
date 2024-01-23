@@ -1,0 +1,10 @@
+release/dobav.o
+release/izmen.o
+release/main.o
+release/mainwindow.o
+release/udalen.o
+release/qrc_rec.o
+release/moc_dobav.o
+release/moc_izmen.o
+release/moc_mainwindow.o
+release/moc_udalen.o

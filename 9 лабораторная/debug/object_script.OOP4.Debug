@@ -1,0 +1,10 @@
+debug/dobav.o
+debug/izmen.o
+debug/main.o
+debug/mainwindow.o
+debug/udalen.o
+debug/qrc_rec.o
+debug/moc_dobav.o
+debug/moc_izmen.o
+debug/moc_mainwindow.o
+debug/moc_udalen.o
